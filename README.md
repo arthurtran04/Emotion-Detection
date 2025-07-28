@@ -16,8 +16,7 @@ This repository is home to an **Emotion Detection** application powered by the *
 
 ## Prerequirements
 
-- IBM Cloud IDE
-- IBM Watson NLP Library
+- Skills Network Labs
 
 ## Project Structure
 
@@ -44,7 +43,7 @@ Determines the emotion of a text entered by user.
 
 ## Installation
 
-To run this project on IBM Cloud IDE, open the Terminal and follow these steps:
+To run this project on Skills Network Labs, open the Terminal and follow these steps:
 
 1. Clone the repository:
 
